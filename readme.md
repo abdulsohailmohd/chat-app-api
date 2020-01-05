@@ -1,4 +1,4 @@
-# CodeIgniter WebSocket Library Example
+# Chat application API using CodeIgniter WebSocket Library
 CodeIgniter library realtime communication by using Websocket technology and Ratchet ([Socketo.me](http://socketo.me) & [codeigniter-websocket](https://github.com/takielias/codeigniter-websocket))
 
 ## :books: Dependencies
@@ -8,7 +8,7 @@ CodeIgniter library realtime communication by using Websocket technology and Rat
 - Composer
 - PHP sockets extension enabled
 
-## :beginner: Installation
+<!-- ## :beginner: Installation
 
 ### :arrow_right: Step 1 : Library installation by Composer
 
@@ -47,4 +47,4 @@ If you have something like that, everything is ok for you:
 
 
 ## Bugs :bug: or feature :muscle:
-Be free to open an issue or send pull request
+Be free to open an issue or send pull request -->

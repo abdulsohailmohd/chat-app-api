@@ -14,6 +14,7 @@ class Welcome extends CI_Controller
         // Run server
         $this->codeigniter_websocket->set_callback('auth', array($this, '_auth'));
         $this->codeigniter_websocket->set_callback('event', array($this, '_event'));
+        $this->load->view('websocket_started');
         $this->codeigniter_websocket->run();
     }
 
